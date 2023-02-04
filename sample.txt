@@ -1,1 +1,11 @@
 Welcome to Git and Github
+Aqua
+Black
+Blue
+Gray
+Green
+Lime
+Maroon
+Navy
+Olive
+Purple
