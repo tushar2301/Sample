@@ -9,3 +9,7 @@ Maroon
 Navy
 Olive
 Purple
+Orange
+White
+Cyan
+Yellow
